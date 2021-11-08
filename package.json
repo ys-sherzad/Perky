@@ -8,7 +8,7 @@
   "private": true,
   "scripts": {
     "android": "react-native run-android",
-    "ios": "react-native run-ios --simulator=\"iPhone 13 Pro Max\"",
+    "ios": "react-native run-ios --simulator=\"iPhone 13 Pro\"",
     "clean:ios": "cd ios && xcodebuild clean && cd ..",
     "start": "react-native start",
     "start:reset": "react-native start -- --reset-cache",
